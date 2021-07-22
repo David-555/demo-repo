@@ -6,4 +6,4 @@ Some description!
 
 Learn how to do basic git/github. 
 
-just some line. 
+just some lines. 
